@@ -75,6 +75,16 @@ A Python-based tool for scanning available Wi-Fi networks and testing passwords 
 
 ---
 
+#### Join the Conversation!
+We’ve opened a **Discussions** page for this repository. Use it to:
+- Ask questions and get support.
+- Share ideas for new features or improvements.
+- Stay updated on announcements.
+- Engage with the community.
+
+Visit the Discussions tab: [WiFi Password Tester Discussions](https://github.com/Arikatakur/wifi-password-tester/discussions).
+
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Arikatakur/WiFi-Password-Tester/tree/main?tab=MIT-1-ov-file) file for details.
 
