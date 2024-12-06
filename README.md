@@ -82,7 +82,7 @@ We’ve opened a **Discussions** page for this repository. Use it to:
 - Stay updated on announcements.
 - Engage with the community.
 
-Visit the Discussions tab: [WiFi Password Tester Discussions](https://github.com/Arikatakur/wifi-password-tester/discussions).
+Visit the Discussions tab: [WiFi Password Tester Discussions](https://github.com/Arikatakur/wifi-password-tester/discussions). 
 
 
 ## License
